@@ -1,0 +1,6 @@
+[package]
+name = "libshynd"
+version = "0.1.0"
+authors = ["Shynd <afexlabs@gmail.com>"]
+
+[dependencies]
