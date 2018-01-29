@@ -32,6 +32,12 @@ pub fn fizzbuzz(n: i32) -> String {
     }
 }
 
+pub fn do_fizzbuzz(n: i32) {
+    for i in 0..n {
+        println!("{}", i);
+    }
+}
+
 #[test]
 fn test_fizzbuzz_fizz() {
     assert_eq!(fizzbuzz(3), "fizz");
