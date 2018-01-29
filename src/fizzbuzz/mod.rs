@@ -34,7 +34,8 @@ pub fn fizzbuzz(n: i32) -> String {
 
 pub fn do_fizzbuzz(n: i32) {
     for i in 0..n {
-        println!("{}", i);
+        let res = fizzbuzz(i);
+        println!("{}", res);
     }
 }
 
