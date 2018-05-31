@@ -8,4 +8,4 @@ libshynd was made to test CI and Slack integration by Travis CI.
   - Sends a Slack notification on build succeed/fail.
   - Automatically generates documentation for gh-pages.
 
-:^)
+:)
