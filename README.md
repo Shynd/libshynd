@@ -7,3 +7,5 @@ libshynd was made to test CI and Slack integration by Travis CI.
   - Automatically builds and runs tests on push.
   - Sends a Slack notification on build succeed/fail.
   - Automatically generates documentation for gh-pages.
+
+:^)
