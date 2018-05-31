@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["do_fizzbuzz",""],["fizzbuzz","Takes in an integer and returns the correct fizzbuzz string."],["is_divisible_by","This function returns true if the left-hand integer is divisible by the right-hand integer."]]});
